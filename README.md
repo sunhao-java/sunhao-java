@@ -1,6 +1,6 @@
 ### Hi there, I'm [SunHao!](https://www.crazy-coder.cn/) 👋
 
-Hi, I'm SunHao, a Javaer from China.
+Hi, I'm SunHao, a Javaer from Nanjing, Jiangsu, China.
 
 - 🔭 I’m currently working on my project [Lodsve](https://github.com/lodsve)
 - 🌱 I’m currently learning Python and Big Data
