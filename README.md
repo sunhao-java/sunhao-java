@@ -8,6 +8,10 @@ Hi, I'm SunHao, a Javaer from Nanjing, Jiangsu, China.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sunhao-java&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/lodsve/lodsve-boot">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=lodsve&repo=lodsve-boot&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+
 <a href="https://github.com/lodsve/lodsve-framework">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=lodsve&repo=lodsve-framework&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
