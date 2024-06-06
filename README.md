@@ -16,12 +16,12 @@ Hi, I'm SunHao, a Javaer from Nanjing, Jiangsu, China.
 ***
 
 ### 💻 Stats
-![](https://raw.githubusercontent.com/sunhao-java/sunhao-java/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/sunhao-java/sunhao-java/output/github-contribution-grid-snake-dark.svg)
 
-![](https://streak-stats.demolab.com?user=sunhao-java&theme=dawnfox&hide_border=&date_format=%5BY.%5Dn.j)
-![](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=sunhao-java&show_icons=true&count_private=true&include_orgs=true&theme=moltack)
+![](https://streak-stats.demolab.com/?user=sunhao-java&theme=dark&hide_border=&date_format=%5BY.%5Dn.j)
+![](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=sunhao-java&show_icons=true&count_private=true&include_orgs=true&theme=dark)
 
-![](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=sunhao-java&include_orgs=true&layout=compact&theme=moltack&langs_count=10)
+![](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=sunhao-java&include_orgs=true&layout=compact&theme=dark&langs_count=10)
 
 ***
 
