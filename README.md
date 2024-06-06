@@ -6,10 +6,6 @@
 </div>
 
 ### Hi there, I'm [SunHao!](https://www.crazy-coder.cn/) 👋
-<a href="https://www.crazy-coder.cn/">
-  <img align="left" height=170px src="https://streak-stats.demolab.com?user=sunhao-java&theme=dawnfox&hide_border=&date_format=%5BY.%5Dn.j" />
-</a>
-<br/>
 
 Hi, I'm SunHao, a Javaer from Nanjing, Jiangsu, China.
 
@@ -22,4 +18,8 @@ Hi, I'm SunHao, a Javaer from Nanjing, Jiangsu, China.
 </a>
 <a href="https://www.crazy-coder.cn/">
   <img align="left" height=170px src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=sunhao-java&include_orgs=true&layout=compact&theme=moltack&langs_count=10" />
+</a>
+
+<a href="https://www.crazy-coder.cn/">
+  <img src="https://streak-stats.demolab.com?user=sunhao-java&theme=dawnfox&hide_border=&date_format=%5BY.%5Dn.j" alt="GitHub Streak" style="margin-top: 10px" align="left" height=170px />
 </a>
