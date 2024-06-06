@@ -33,7 +33,7 @@ Hi, I'm SunHao, a Javaer from Nanjing, Jiangsu, China.
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1227](https://github.com/didi/KnowStreaming/issues/1227#issuecomment-2131069713) in [didi/KnowStreaming](https://github.com/didi/KnowStreaming)
+1. 🚀 Published release [V1.0.3](https://github.com/lodsve/lodsve-maven-archetype/releases/tag/V1.0.3) in [lodsve/lodsve-maven-archetype](https://github.com/lodsve/lodsve-maven-archetype)
 <!--END_SECTION:activity-->
 
 ***
