@@ -14,8 +14,8 @@ Hi, I'm SunHao, a Javaer from Nanjing, Jiangsu, China.
 - 💬 Ask me about anything [here](https://github.com/sunhao-java/sunhao-java/issues)
 
 <a href="https://www.crazy-coder.cn/">
-  <img align="left" height=170px src="https://github-readme-stats.vercel.app/api?username=sunhao-java&show_icons=true&count_private=true&orgs=lodsve" />
+  <img align="left" height=170px src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=sunhao-java&show_icons=true&count_private=true&include_orgs=true&theme=moltack" />
 </a>
 <a href="https://www.crazy-coder.cn/">
-  <img align="left" height=170px src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunhao-java&layout=compact&langs_count=10&hide=html,javascript,css,freemarker,ruby" />
+  <img align="left" height=170px src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=sunhao-java&include_orgs=true&layout=compact&theme=moltack&langs_count=10" />
 </a>
