@@ -31,7 +31,7 @@ Hi, I'm SunHao, a Javaer from Nanjing, Jiangsu, China.
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [V1.0.3](https://github.com/lodsve/lodsve-maven-archetype/releases/tag/V1.0.3) in [lodsve/lodsve-maven-archetype](https://github.com/lodsve/lodsve-maven-archetype)
+1. ❗ Opened issue [#5017](https://github.com/JanDeDobbeleer/oh-my-posh/issues/5017) in [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)
 <!--END_SECTION:activity-->
 
 ***
