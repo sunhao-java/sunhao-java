@@ -31,7 +31,7 @@ Hi, I'm SunHao, a Javaer from Nanjing, Jiangsu, China.
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5017](https://github.com/JanDeDobbeleer/oh-my-posh/issues/5017) in [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)
+1. 🗣 Commented on [#5017](https://github.com/JanDeDobbeleer/oh-my-posh/issues/5017#issuecomment-2159728974) in [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)
 <!--END_SECTION:activity-->
 
 ***
