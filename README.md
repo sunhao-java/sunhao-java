@@ -31,7 +31,7 @@ Hi, I'm SunHao, a Javaer from Nanjing, Jiangsu, China.
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#223](https://github.com/haoel/haoel.github.io/issues/223) in [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io)
+1. ❌ Closed PR [#24](https://github.com/sunhao-java/blog/pull/24) in [sunhao-java/blog](https://github.com/sunhao-java/blog)
 <!--END_SECTION:activity-->
 
 ***
