@@ -31,7 +31,7 @@ Hi, I'm SunHao, a Javaer from Nanjing, Jiangsu, China.
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/sunhao-java/blog/pull/25) in [sunhao-java/blog](https://github.com/sunhao-java/blog)
+1. 🗣 Commented on [#80](https://github.com/YanG-1989/m3u/issues/80#issuecomment-2462037639) in [YanG-1989/m3u](https://github.com/YanG-1989/m3u)
 <!--END_SECTION:activity-->
 
 ***
