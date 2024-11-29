@@ -31,7 +31,7 @@ Hi, I'm SunHao, a Javaer from Nanjing, Jiangsu, China.
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#142](https://github.com/YanG-1989/m3u/issues/142#issuecomment-2462403609) in [YanG-1989/m3u](https://github.com/YanG-1989/m3u)
+1. ❗ Opened issue [#59](https://github.com/donknap/dpanel/issues/59) in [donknap/dpanel](https://github.com/donknap/dpanel)
 <!--END_SECTION:activity-->
 
 ***
