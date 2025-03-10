@@ -31,7 +31,7 @@ Hi, I'm SunHao, a Javaer from Nanjing, Jiangsu, China.
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#159](https://github.com/larksuite/oapi-sdk-java/issues/159) in [larksuite/oapi-sdk-java](https://github.com/larksuite/oapi-sdk-java)
+1. 🔒 Closed issue [#40](https://github.com/lodsve/lodsve-framework/issues/40) in [lodsve/lodsve-framework](https://github.com/lodsve/lodsve-framework)
 <!--END_SECTION:activity-->
 
 ***
