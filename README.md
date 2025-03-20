@@ -31,7 +31,7 @@ Hi, I'm SunHao, a Javaer from Nanjing, Jiangsu, China.
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3](https://github.com/lodsve/lodsve-boot/issues/3) in [lodsve/lodsve-boot](https://github.com/lodsve/lodsve-boot)
+1. 🗣 Commented on [#1](https://github.com/chatmcp/mcp-directory/issues/1#issuecomment-2739035479) in [chatmcp/mcp-directory](https://github.com/chatmcp/mcp-directory)
 <!--END_SECTION:activity-->
 
 ***
