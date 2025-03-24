@@ -31,7 +31,7 @@ Hi, I'm SunHao, a Javaer from Nanjing, Jiangsu, China.
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/chatmcp/mcp-directory/issues/1#issuecomment-2739035479) in [chatmcp/mcp-directory](https://github.com/chatmcp/mcp-directory)
+1. 🗣 Commented on [#3612](https://github.com/CherryHQ/cherry-studio/issues/3612#issuecomment-2747359628) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
 <!--END_SECTION:activity-->
 
 ***
