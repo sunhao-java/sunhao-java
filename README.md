@@ -31,7 +31,7 @@ Hi, I'm SunHao, a Javaer from Nanjing, Jiangsu, China.
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3612](https://github.com/CherryHQ/cherry-studio/issues/3612#issuecomment-2747359628) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+1. ❗ Opened issue [#4611](https://github.com/CherryHQ/cherry-studio/issues/4611) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
 <!--END_SECTION:activity-->
 
 ***
