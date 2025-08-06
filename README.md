@@ -31,7 +31,7 @@ Hi, I'm SunHao, a Javaer from Nanjing, Jiangsu, China.
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6049](https://github.com/CherryHQ/cherry-studio/issues/6049#issuecomment-2886172043) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+1. 🚀 Published release [1.0.2-20250806-SNAPSHOT](https://github.com/lodsve/lodsve-boot/releases/tag/1.0.2-20250806-SNAPSHOT) in [lodsve/lodsve-boot](https://github.com/lodsve/lodsve-boot)
 <!--END_SECTION:activity-->
 
 ***
