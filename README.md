@@ -31,7 +31,7 @@ Hi, I'm SunHao, a Javaer from Nanjing, Jiangsu, China.
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.2](https://github.com/lodsve/lodsve-boot/releases/tag/v1.0.2) in [lodsve/lodsve-boot](https://github.com/lodsve/lodsve-boot)
+1. 🚀 Published release [1.0.3-20250810-SNAPSHOT](https://github.com/lodsve/lodsve-boot/releases/tag/1.0.3-20250810-SNAPSHOT) in [lodsve/lodsve-boot](https://github.com/lodsve/lodsve-boot)
 <!--END_SECTION:activity-->
 
 ***
